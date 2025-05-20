@@ -1,1 +1,10 @@
-# Shanghai-University-Data-Mining-Course-Project
+# 数据挖掘与知识处理课程项目
+# RAG系统
+## 功能分布：
+1. preprocess.py文件中包含数据预处理和数据分块；
+2. text2vec.py文件中包含文本的向量转换和数据库的构建；
+3. app.py文件中包含混合检索流程、多轮对话历史管理及上下文拼接，以及Streamlit交互界面
+
+（具体功能实现见课程论文）
+## 注意事项：
+本作品中的文件路径均为作者本地路径，在使用时注意修改路径。
